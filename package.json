@@ -24,13 +24,10 @@
     "build": "echo 'No build is required right now'"
   },
   "dependencies": {
-    "amplify-graphql-docs-generator": "^0.1.29",
+    "amplify-graphql-docs-generator": "^2.2.4",
     "aws-appsync-codegen": "^0.17.5",
-    "chalk": "^2.4.1",
+    "chalk": "^5.3.0",
     "json-stable-stringify-pretty": "^1.2.0",
-    "serverless": "^1.32.0"
-  },
-  "peerDependencies": {
-    "serverless": "1.x"
+    "serverless": "^3.35.2"
   }
 }
